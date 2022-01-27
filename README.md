@@ -5,6 +5,7 @@ Hello!
 This is a small practical course in Electronics, following these theoretical lessons:
 https://www.youtube.com/playlist?list=PLhNzYIgWJ-jYKyFQY17kkuvdsiJDYk2cP
 
+## What you need
 In order to be able to run the experiments you need:
 1. Any computer (Windows, Linux or Mac), **better if it is a laptop** (because it can run on batteries):
 ![Laptop](/Docs/Laptop.jpg)
@@ -29,3 +30,6 @@ I have also modified the trimmers I use in these experiments, by soldering them 
 ![Trimmer](/Docs/Trimmer.jpg)
 
 ...it's not strictly necessary but it helps a lot, otherwise it might be difficult to insert it on the breadboard!
+
+## What to do now
+
