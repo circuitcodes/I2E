@@ -32,4 +32,22 @@ I have also modified the trimmers I use in these experiments, by soldering them 
 ...it's not strictly necessary but it helps a lot, otherwise it might be difficult to insert it on the breadboard!
 
 ## What to do now
+The easiest thing to do now, is go here:
+![Github](/Docs/Github.png)
 
+and download the ZIP file on your PC.
+
+In order to run the **Bioamplifier** experiment, you need to install the **ControlP5** library of **Processing**. So, you launch Processing and then you do the following things:
+1. Realize that the library is missing:
+![ControlP5](/Processing/Serialplotter/1_Missing_ControlP5_library.png)
+2. Go to **add library**:
+![Add library](/Processing/Serialplotter/2_Add_library.png)
+3. Install the library:
+![Install library](/Processing/Serialplotter/3_Install_ControlP5_library.png)
+4. Verify the library has been installed:
+![Check library](/Processing/Serialplotter/4_ControlP5_library_installed.png)
+5. In the **Serialplotter.pde** code, set the correct serial port for Arduino:
+![Set serial port](/Processing/Serialplotter/5_Set_Arduino_serial_port.png)
+
+After all this, you should be able to run the **Serialplotter** app you need to visualize the analog signals from Arduino:
+![Signals](/Processing/Serialplotter/6_Signals.jpg)
