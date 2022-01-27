@@ -39,7 +39,7 @@ and download the ZIP file on your PC.
 
 In order to run the **Bioamplifier** experiment, you need to install the **ControlP5** library of **Processing**. So, you launch Processing and then you do the following things:
 1. Realize that the library is missing:
-![ControlP5](/Processing/Serialplotter/1_Missing_ControlP5_library.png)
+![Missing library](/Processing/Serialplotter/1_Missing_library.png)
 2. Go to **add library**:
 ![Add library](/Processing/Serialplotter/2_Add_library.png)
 3. Install the library:
