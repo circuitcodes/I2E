@@ -133,10 +133,10 @@ Wire Wire Line
 Wire Wire Line
 	1000 3550 1000 2250
 $Comp
-L Simulation_SPICE:VSIN V_noise
+L Simulation_SPICE:VSIN V_external_noise
 U 1 1 61F8AAF2
 P 1000 3800
-F 0 "V_noise" H 1130 3891 50  0000 L CNN
+F 0 "V_external_noise" H 1130 3891 50  0000 L CNN
 F 1 "VSIN" H 1130 3800 50  0000 L CNN
 F 2 "" H 1000 3800 50  0001 C CNN
 F 3 "~" H 1000 3800 50  0001 C CNN

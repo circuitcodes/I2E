@@ -452,7 +452,7 @@ Wire Wire Line
 	7900 5400 7900 5050
 Connection ~ 7900 5400
 Text Notes 2450 7350 0    50   ~ 0
-HINTS:\n1. Tools -> Simulator -> Settings -> Transient\nand then set:\n\nTime step: 1m\nFinal time: 300m\n\nQUESTIONS:\n1. In the half-wave rectifier, why do we have a voltage ripple at the output?\n2. Compare the ripple of the half-wave and the full-wave rectifier.\n3. What happens if the frequency in changed?\n4. What happens for a source amplitude less than 0.7V in the half-wave rectifier?\n5. And less than 1.4V in the full-wave rectifier?\n6. What happens if the resistor in the low-pass filter becomes "too big" ?\n7. How much power does R3 and R4 dissipate?
+HINTS:\n1. Tools -> Simulator -> Settings -> Transient\nand then set:\n\nTime step: 1m\nFinal time: 300m\n\nQUESTIONS:\n1. In the half-wave rectifier, why do we have a voltage ripple at the output?\n2. Compare the ripple of the half-wave and the full-wave rectifier.\n3. What happens if the frequency in changed?\n4. What happens for a source amplitude less than 0.7V in the half-wave rectifier?\n5. And less than 1.4V in the full-wave rectifier?\n6. What happens if the resistor in the low-pass filter becomes "too big" ?\n7. How much power do R3 and R4 dissipate?
 Wire Notes Line
 	5750 2000 5750 3300
 Wire Notes Line
