@@ -7,7 +7,7 @@ Sheet 1 1
 Title "I2E - Basic components"
 Date "2021-08-03"
 Rev "1.0"
-Comp "SISSA"
+Comp ""
 Comment1 "Erik ZORZIN"
 Comment2 ""
 Comment3 ""

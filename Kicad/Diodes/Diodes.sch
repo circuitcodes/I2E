@@ -7,7 +7,7 @@ Sheet 1 1
 Title "Diodes"
 Date "2021-08-04"
 Rev "1.0"
-Comp "SISSA"
+Comp ""
 Comment1 "Erik ZORZIN"
 Comment2 ""
 Comment3 ""

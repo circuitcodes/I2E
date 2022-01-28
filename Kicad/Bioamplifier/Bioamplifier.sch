@@ -7,7 +7,7 @@ Sheet 1 1
 Title "Bioamplifier"
 Date "2022-01-26"
 Rev "v 1.0"
-Comp "SISSA"
+Comp ""
 Comment1 "Erik Zorzin"
 Comment2 ""
 Comment3 ""

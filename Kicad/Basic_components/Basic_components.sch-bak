@@ -326,8 +326,8 @@ Text Notes 3500 2000 0    50   ~ 0
 BASIC DC CIRCUITS
 Text Notes 6000 2000 0    50   ~ 0
 BASIC AC CIRCUITS
-Text Notes 4800 5600 0    50   ~ 0
-HINTS\n1. Tools --> Simulator --> Settings --> Transient\nand then set: \n\nTime step: 10u\nFinal time: 5m\n\nQUESTIONS\n1. Why do we need RS_DC_small and RS_AC_small?
+Text Notes 3500 6000 0    50   ~ 0
+HINTS\n1. Tools --> Simulator --> Settings --> Transient\nand then set: \n\nTime step: 10u\nFinal time: 5m\n\nQUESTIONS\n1. Why do we need RS_DC_small and RS_AC_small?\n2. In the AC circuits, how is the phase of the current respect to the voltage across the load?
 Wire Wire Line
 	6500 4100 6850 4100
 Wire Wire Line
